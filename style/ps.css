@@ -1,0 +1,38 @@
+.problem-statement {
+    background-color: #e7e7ff; /* Soft light purple background */
+    padding: 20px;
+    border-radius: 8px;
+    color: #1a1c2c; /* Slightly darker text for contrast */
+    box-shadow: 0 4px 8px rgba(50, 50, 90, 0.4); /* Subtle shadow */
+}
+
+.section-title {
+    color: #292a40; /* Darker text color */
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Press Start 2P', cursive; /* Keeping the geeky font */
+}
+
+.problem-details {
+    background-color: #c7c8e2; /* Light grey-purple background */
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.problem-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.problem-icon {
+    font-size: 30px;
+    color: #7d5fff; /* Muted purple, softer than before */
+    margin-right: 10px;
+}
+
+.problem-description {
+    color: #1a1c2c; /* Slightly darker text color */
+    line-height: 1.6;
+}
